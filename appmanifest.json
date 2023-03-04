@@ -1,7 +1,7 @@
 {
-	"name": "hangimizFarkli",
-	"short_name": "hangimizFarkli",
-	"description": "",
+	"name": "HangimizFarkliyiz",
+	"short_name": "HangimizFarkliyiz",
+	"description": " Beş duyu organını kullanarak maddeyi niteleyen temel özellikleri açıklar.",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
